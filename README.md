@@ -1,2 +1,10 @@
 # api-gateway
-API gateway — routing, rate limiting, authentication
+
+API gateway for routing and rate limiting
+
+## Getting Started
+
+```bash
+npm install
+npm run build
+```

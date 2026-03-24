@@ -1,0 +1,13 @@
+{
+  "name": "@canopy-mvp/api-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "eslint src/"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0"
+  }
+}
